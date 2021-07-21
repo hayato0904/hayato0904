@@ -4,6 +4,7 @@
 <!-- トロフィー🏆 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=hayato0904)](https://github.com/hayato0904/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=hayato0904&theme=onedark)](https://github.com/hayato0904/github-profile-trophy)
-
+<!-- トロフィー🏆の行を制限する -->
+https://github-profile-trophy.vercel.app/?username=hayato0904&row=2
 
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
