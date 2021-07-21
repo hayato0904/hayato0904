@@ -4,4 +4,8 @@
 <!-- トロフィー🏆 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=hayato0904&row=1%colum=1&theme=radical)](https://github.com/hayato0904/github-profile-trophy)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayato0904)](https://github.com/hayato0904/github-readme-stats)
+
+
+
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
