@@ -3,5 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayato0904&theme=radical)
 <!-- トロフィー🏆 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=hayato0904)](https://github.com/hayato0904/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hayato0904&theme=onedark)](https://github.com/hayato0904/github-profile-trophy)
+
 
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
