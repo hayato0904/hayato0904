@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayato0904&repo=github-readme-stats)](https://github.com/hayato0904/github-readme-stats)
+
 <!-- トロフィー🏆 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=hayato0904&row=1%colum=1&theme=radical)](https://github.com/hayato0904/github-profile-trophy)
 <!-- グラフや表 -->
